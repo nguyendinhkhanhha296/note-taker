@@ -8,7 +8,7 @@
 </p>
 
 ## Deployed Links
-:heroku: [Heroku App](https://ha-note-taker.herokuapp.com/)
+:atom_symbol: [Heroku App](https://ha-note-taker.herokuapp.com/)
 
 :octocat: [GitHub Repo](https://github.com/nguyendinhkhanhha296/note-taker)
 
